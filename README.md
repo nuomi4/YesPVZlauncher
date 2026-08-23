@@ -15,3 +15,22 @@ YesPVZLauncher 使用 **GNU General Public License v3.0 (GPL‑3.0)** 开源。
 
 > ⚠️重要提示：
 > 本项目**不包含 Plants vs. Zombies 游戏资源**，游戏本体版权归原厂商（Popcap）所有，请使用者自行准备合法游戏文件。
+
+
+# YesPVZlauncher
+Who wouldn’t want to play their favorite PVZ game on a Mac! We’ve now almost achieved full compatibility, and we also have a marketplace system and a library of games available online.
+
+# Introduction
+This launcher uses Wine to launch PVZ. It requires no complex interface and can be used straight out of the box.
+Some of the game libraries are online resources. If the store does not have the game you want, you can use import functionality.
+
+## 📜Open-source license.
+YesPVZLauncher is open-source under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+### Brief Explanation
+1. You are free to view, study, and modify the source code of this project. **Modify it solely on your personal computer for personal use; do not share any changes publicly.**
+2. If you distribute the modified version externally (packaging it as zip/dmg, uploading it as a release, or sending it to others), then the complete, modified source code must also be made publicly available under the GPL-3.0 license.
+3. This project is merely a **local desktop startup tool** that utilizes process calls to Wine and game programs. The GPL-3.0 license only applies to the code of the startup tool itself, **it does not infect Wine or the core game “Plants vs. Zombies”**.
+
+> ⚠️Important Notice:
+> This project **does not include Plants vs. Zombies game resources**. The copyright of the game itself belongs to the original developer (Popcap). Users are required to prepare legitimate game files on their own.
