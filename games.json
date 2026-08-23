@@ -1,6 +1,18 @@
 {
     "games": [
-        { "id": 1, "name": "植物大战僵尸95版", "subtitle": "经典硬核", "link": "https://d2.wwh8.net/植物大战僵尸95版.zip" },
-        { "id": 2, "name": "杂交版", "subtitle": "潜艇伟伟迷", "link": "https://pan.quark.cn/s/398ec1d99fe7" }
+        {
+            "id": 1,
+            "name": "植物大战僵尸95版",
+            "subtitle": "经典高难版本",
+            "link": "https://d2.wwh8.net/植物大战僵尸95版.zip",
+            "image": "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/95.jpg"
+        },
+        {
+            "id": 2,
+            "name": "杂交版",
+            "subtitle": "潜艇伟伟迷",
+            "link": "https://pan.quark.cn/s/398ec1d99fe7",
+            "image": "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/za.jpg"
+        }
     ]
 }
