@@ -31,13 +31,9 @@
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview4.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview5.png"
             ]
-        }
-    ]
-},
-{
-    "games": [
+        },
         {
-            "id": 1,
+            "id": 3,
             "name": "植物娘大战僵尸",
             "subtitle": "太猎奇了",
             "subtitle2": "？？？？",
@@ -52,3 +48,5 @@
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/preview5.png"
             ]
         }
+    ]
+}
