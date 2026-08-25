@@ -4,10 +4,15 @@
             "id": 1,
             "name": "植物大战僵尸95版",
             "subtitle": "经典高难版本",
-            "subtitle2": "原作者称改动95处，你发现了吗？",
+            "subtitle2": "《植物大战僵尸95版》是由贴吧用户\"冥谷川恋\"基于原版《植物大战僵尸》制作的同人修改版游戏。\"95\"代表作者对该游戏进行的95次修改。\n\n该改版的核心特征是全面调整游戏平衡性与提高难度，具体改动包括：\n\n数值与资源机制：调整了阳光掉落数值（小阳光25、普通50、大阳光75），并增加了僵尸死亡后随机掉落阳光的机制。\n植物属性调整：例如土豆雷准备时间缩短、爆炸范围扩大；大嘴花攻击范围增加、咀嚼时间缩短；高坚果被摧毁后会变成窝瓜；火炬树桩能改变豌豆属性。\n僵尸属性强化：摇旗僵尸装备铁桶，速度和耐久大幅提升（玩家俗称\"疯狗铁桶\"）；读报僵尸（\"二爷\"）血量和攻击力大幅上升；部分僵尸新增特殊能力，如铁栅门僵尸会优先保护铁门。\n游戏节奏加快：大部分关卡开局数秒后即出现僵尸，僵尸波次、数量和强度均显著提升。\n该改版被视为国内PVZ改版领域的早期代表作品，为非官方发布的免费修改版本。",
             "subtitle3": "怎么玩？",
-            "subtitle4": "原作者称改动95处，你发现了吗？",
-            "subtitle5": "原作者称改动95处？",
+            "subtitle4": "开局即是地狱难度",
+            "subtitle5": "疯狗铁桶警告！",
+            "subtitle6": "二爷教你做人",
+            "subtitle7": "95处改动等你发现",
+            "subtitle8": "国内PVZ改版鼻祖",
+            "subtitle9": "95版到底改了啥？",
+            "subtitle10": "原作者称改动95处，你发现了吗？",
             "link": "https://d2.wwh8.net/植物大战僵尸95版.zip",
             "icon": "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/icon.png",
             "previews": [
@@ -15,17 +20,27 @@
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/preview2.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/preview3.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/preview4.png",
-                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/preview5.png"
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/preview5.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/ad1.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/ad2.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/ad3.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/ad4.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/1/ad5.png"
             ]
         },
         {
             "id": 2,
             "name": "植物大战僵尸杂交版",
             "subtitle": "潜艇伟伟迷",
-            "subtitle2": "超级植物杂交!你想要的杂交植物通通在里面，任何你想得到的，想不到的，你都可以玩到!",
+            "subtitle2": "《植物大战僵尸杂交版》是B站UP主\"潜艇伟伟迷\"独立开发的免费同人游戏。它的核心机制是\"植物杂交\"——你可以把两种植物融合成一个新品种，例如向日葵和豌豆射手杂交，会产生既能攻击又能产阳光的\"豌豆向日葵\"。游戏包含超过140个关卡，涵盖冒险、挑战、生存等模式，并持续更新，分为经典版和重制版两条开发线。游戏完全免费，PC版可直接下载，手机版需要通过模拟器运行。",
             "subtitle3": "太好玩了",
-            "subtitle4": "原作者称改动，了吗？",
-            "subtitle5": "原作者动95处？",
+            "subtitle4": "豌豆向日葵横空出世",
+            "subtitle5": "140+关卡等你挑战",
+            "subtitle6": "经典重制双线并行",
+            "subtitle7": "潜艇伟伟迷力作",
+            "subtitle8": "植物杂交无限可能",
+            "subtitle9": "杂交版到底怎么玩？",
+            "subtitle10": "两种植物融合，策略翻倍！",
             "link": "https://pan.quark.cn/s/398ec1d99fe7",
             "icon": "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/icon.png",
             "previews": [
@@ -33,17 +48,27 @@
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview2.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview3.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview4.png",
-                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview5.png"
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/preview5.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/ad1.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/ad2.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/ad3.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/ad4.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/2/ad5.png"
             ]
         },
         {
             "id": 3,
             "name": "植物娘大战僵尸",
-            "subtitle": "太猎奇了",
-            "subtitle2": "？？？？",
+            "subtitle": "二次元专区！",
+            "subtitle2": "《植物娘大战僵尸》简单来说，就是一款由B站UP主\"庄不纯\"带头、为爱发电的免费同人游戏。它的核心创意，是把《植物大战僵尸》里所有植物都画成有独立人设、配音和背景故事的二次元美少女。\n\n玩法上保留了经典的塔防底子，你依然要收集阳光、种植植物娘来抵御僵尸。最大的不同在于，这些植物娘能和你互动，通过摸头、送礼提升亲密度，解锁新立绘和动作。目前已娘化的植物有双发射手、胆小菇、大嘴花、火爆辣椒、大蒜等，最新版本还加入了倭瓜娘、南瓜娘等新角色。\n\n游戏支持Windows、Android和iOS平台，免费游玩但标注了17.9+。",
             "subtitle3": "怎么？",
-            "subtitle4": "原作者是ay？",
-            "subtitle5": "原作者95？",
+            "subtitle4": "豌豆无需长高，恋者自会弯腰",
+            "subtitle5": "大喷菇已娘化！",
+            "subtitle6": "双发射手参上",
+            "subtitle7": "胆小菇可爱来袭",
+            "subtitle8": "二次元植物娘集结",
+            "subtitle9": "植物娘到底是什么？",
+            "subtitle10": "当植物变成二次元美少女",
             "link": "https://pan.quark.cn/s/74e358298039",
             "icon": "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/icon.png",
             "previews": [
@@ -51,7 +76,12 @@
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/preview2.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/preview3.png",
                 "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/preview4.png",
-                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/preview5.png"
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/preview5.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/ad1.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/ad2.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/ad3.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/ad4.png",
+                "https://raw.githubusercontent.com/nuomi4/YesPVZlauncher/main/images/3/ad5.png"
             ]
         }
     ]
