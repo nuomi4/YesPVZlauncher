@@ -1,0 +1,11 @@
+# 让 GitHub 自动生成的 Source code (zip) 里
+# 只保留「Source code」文件夹，其他全部排除
+
+.github/ export-ignore
+images/ export-ignore
+LICENSE export-ignore
+README.md export-ignore
+games.json export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
+.DS_Store export-ignore
